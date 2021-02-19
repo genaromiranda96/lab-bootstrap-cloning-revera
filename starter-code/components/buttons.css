@@ -1,0 +1,40 @@
+.btrmore {
+        background: rgba(255,255,255,0.2);
+        display: block;
+        text-transform: uppercase;
+        color: #fff;
+        width: 150px;
+        border: 1px solid #fff;
+        padding: 10px 0px;
+        margin: 10px auto;
+        font-weight: bold;
+        color: white;
+        text-decoration: none;
+}
+
+
+
+
+.flex-prev {
+        height: 100px;
+        display: block;
+        background: url("https://demo.fabthemes.com/revera/wp-content/themes/Revera/images/bg_direction_nav.png") no-repeat 0 0;
+        top: 50%;
+        z-index: 200;
+        cursor: pointer;
+}
+
+
+.flex-next {
+    height: 100px;
+    display: block;
+    background: url("https://demo.fabthemes.com/revera/wp-content/themes/Revera/images/bg_direction_nav.png") no-repeat 0 0;
+    top: 50%;
+    z-index: 200;
+    cursor: pointer;
+    margin-left: -54px;
+    width: 60px;
+    transform: rotate(-180deg);
+}
+
+

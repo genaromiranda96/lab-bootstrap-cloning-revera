@@ -1,0 +1,108 @@
+h1.site-title {
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-top: 25px;
+}
+
+h1 a{
+    font-size: 32px;
+    color: black;
+}
+
+
+h1.site-title a:link {
+    color: #000;
+    text-decoration: none;
+}
+
+
+h2.site-title {
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+#slide-info p{
+    line-height: 24px;
+}
+
+.lineh{
+    line-height: 22px;
+}
+
+
+.widgets p, h3 {
+    text-align: center;
+    color: white;
+}
+
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.h2-section-title {
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+.h2-section-title h2 {
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+.h2-section-title p {
+    font-weight: bold;
+    border-bottom: 1px solid #dfdfdf;
+    color: #aaa;
+    padding-bottom: 20px;
+}
+
+
+
+h4 {
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 17px;
+    font-weight: 600;
+
+}
+
+h5 {
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 20px;
+    font-size: 17px;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+
+
+
+#sub-footer p {
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    padding: 15px 0px 15px 0px;
+}
